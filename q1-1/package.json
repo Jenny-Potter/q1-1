@@ -5,6 +5,7 @@
   "description": "A Mpvue project",
   "author": "王敏 <569049370@qq.com>",
   "private": true,
+  "main": "./src/main.js",
   "scripts": {
     "dev:wx": "node build/dev-server.js wx",
     "start:wx": "npm run dev:wx",
